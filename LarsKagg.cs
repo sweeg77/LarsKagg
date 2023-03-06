@@ -4,5 +4,6 @@ namespace LarsKagg
 {
 	public class LarsKagg : Mod
 	{
+
 	}
 }
