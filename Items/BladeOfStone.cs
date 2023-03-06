@@ -2,7 +2,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace LasKagMod.Items
+namespace LarsKagg.Items
 {
     public class BladeOfStone : ModItem
     {

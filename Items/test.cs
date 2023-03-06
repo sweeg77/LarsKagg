@@ -8,14 +8,14 @@ namespace LarsKagg.Items
 	{
 		public override void SetStaticDefaults()
 		{
-			// DisplayName.SetDefault("test"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
-			Tooltip.SetDefault("This is a basic modded sword.");
+			DisplayName.SetDefault("Million RPM"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
+			Tooltip.SetDefault("brrrrrrrrrrrrrrr");
 		}
 
 		public override void SetDefaults()
 		{
 			Item.damage = 50;
-			Item.DamageType = DamageClass.Melee;
+			Item.DamageType = DamageClass.Ranged;
 			Item.width = 40;
 			Item.height = 40;
 			Item.useTime = 20;

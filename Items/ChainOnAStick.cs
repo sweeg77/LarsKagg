@@ -4,9 +4,9 @@ using Terraria;
 using Terraria.GameContent.Creative;
 using Terraria.ID;
 using Terraria.ModLoader;
-using LasKagMod.Projectiles;
+using LarsKagg.Projectiles;
 
-namespace LasKagMod.Items
+namespace LarsKagg.Items
 {
     public class ChainOnAStick : ModItem
     {
