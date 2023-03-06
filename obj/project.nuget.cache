@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a9EvTyP6R7n/Spf4UQVh2Ke9XCSY7ibveGzm1bFewNy/G9T7URSYVXjQ9LbcOeyh3mNllbo+jY/Zz2OV5QEnXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wilfr\\OneDrive\\Dokument\\GitHub\\LarsKagg\\LarsKagg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wilfr\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
